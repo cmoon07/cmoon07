@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 🎓 Sophomore at Cornell University, studying Information Science
 
+📍 Break Through Tech AI Fellow
+
 🤖 Interested in Data Science, AI, Machine Learning, and Software Development
 
 I am passionate about the intersection of technology, data, and human-centered design. My interests span machine learning, artificial intelligence, software development, and data science, and I enjoy building projects that turn data into actionable insights!
