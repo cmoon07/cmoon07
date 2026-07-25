@@ -49,6 +49,9 @@ Built machine learning models to classify Airbnb listings into pricing tiers usi
 - Data Structures & Algorithms
 - Backend Development
 
+### ✨ Fun Fact
+When I'm not coding, you'll probably find me exploring new coffee shops, working on creative projects, or learning about emerging AI technologies!
+
 ### 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/claire-y-moon)
 - [Email](cm2276@cornell.edu)
