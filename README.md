@@ -23,25 +23,31 @@ Here are some ideas to get you started:
 
 I am passionate about the intersection of technology, data, and human-centered design. My interests span machine learning, artificial intelligence, software development, and data science, and I enjoy building projects that turn data into actionable insights!
 
-### 🚀 Featured Project: Airbnb Pricing Classification
-Built machine learning models to classify Airbnb listings into pricing tiers using feature engineering, data preprocessing, and model evaluation.
+### 🚀 Featured Projects
+**🔎 Agentic Internal Knowledge System for R&D (Zayi × Break Through Tech AI Studio)**
+A 7-person team's retrieval system that answers questions over 10 ML research papers with page-level citations (bge-small embeddings, ChromaDB). The system scores 87.5% Hit@1 and 97.5% Hit@5 on a 40-question ground-truth set.
+My contributions:
+- Wrote an end-to-end validation script that checks the cleaned data, chunks, embeddings, and ChromaDB provenance, and exits non-zero on failure to gate CI
+- Designed a reference-filtering ablation that cut the index 53.5% (553 → 257 chunks) with no change in Hit@1, Hit@3, or MRR@3
 
-**Tech Stack**: Python, Pandas, Scikit-Learn, TensorFlow
+🔗 [Repository](https://github.com/Break-Through-Tech/Zayi-1B-agentic-internal-knowledge-system-for-r-and-d)
 
-**Results**:
-- Cleaned and transformed large-scale Airbnb listing data
-- Developed and compared Decision Tree and Neural Network models
-- Achieved 84.9% accuracy with a Neural Network
-- Evaluated performance using Accuracy and F1 Score
-  
-🔗 **Project Repository**: [Link](https://github.com/cmoon07/airbnb-pricing-intelligence)
+**🏠 Airbnb Price Classification (Break Through Tech Capstone)**
+Classifies 28,022 NYC Airbnb listings as top-quartile (>$180/night) or not. I compared logistic regression, a tuned decision tree, and a 3-layer Keras network against a majority-class baseline.
+- Neural network: 84.7% accuracy, 0.668 F1, 0.893 ROC-AUC (vs. 74.3% for the baseline)
+- Documented model trade-offs, known limitations, and fairness concerns by borough
+
+🔗 [Repository](https://github.com/cmoon07/airbnb-pricing-intelligence)
+
+**🎮 Steam and Twitch Game Lifecycle Analysis (Cornell INFO 2950)**
+Built a 347-game dataset with a partner by merging 612K monthly Steam player records with Twitch viewership. Found that the median game keeps about 21% of its launch-peak players by month 3.
 
 ### 🛠 Tech Stack
-**Languages**: Python • Java • SQL • JavaScript • HTML/CSS
+**Languages:** Python • SQL • R • Java
 
-**Machine Learning & Data Science**: Pandas • NumPy • Scikit-Learn • TensorFlow
+**Data & ML:** Pandas • NumPy • scikit-learn • TensorFlow/Keras • sentence-transformers • ChromaDB • Matplotlib • Seaborn
 
-**Development Tools**: Git • GitHub • Flask • SQLite • Jupyter Notebook
+**Tools:** Git • GitHub • Jupyter • Google Colab
 
 ### 🌱 Currently Learning
 - Neural Networks and Deep Learning
@@ -53,7 +59,7 @@ Built machine learning models to classify Airbnb listings into pricing tiers usi
 When I'm not coding, you'll probably find me exploring new coffee shops, working on creative projects, or learning about emerging AI technologies!
 
 ### 📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/claire-y-moon)
-- [Email](cm2276@cornell.edu)
+- [LinkedIn](https://www.linkedin.com/in/claire-y-moon)
+- [Email](mailto:cm2276@cornell.edu)
 
 Always happy to connect about AI, machine learning, software engineering, research, and internship opportunities!
